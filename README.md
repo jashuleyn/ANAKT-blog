@@ -68,3 +68,21 @@ php artisan migrate --seed
 # 5. Run the app
 php artisan serve
 
+## 📚 License & Disclaimer
+
+This is a fan-made student project created by  
+**Jashlein Leanne T. Marquez** – Full-Stack Web Development Intern at **Lamina Studios, LLC (2025)**
+
+**Alien Stage** and its characters are the sole property of **Vivinos**.  
+This project is not affiliated with, endorsed, or sponsored by Vivinos.  
+All rights to original content belong to Vivinos.  
+No copyright infringement intended.
+
+---
+
+## 💖 Tribute
+
+This blog exists to preserve the memories of a fictional Earth.  
+**For fans. By fans.**  
+*Let the Segyein remember.*
+
